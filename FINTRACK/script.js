@@ -1,5 +1,7 @@
 // Initialize Gemini API (Replace with your API key)
-const GEMINI_API_KEY = 'AIzaSyBkumglKU1ABLC4mzdSmKp6cJUFHXl6VDI';
+require('dotenv').config();
+const API_KEY = process.env.API_KEY;
+console.log(API_KEY);
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
 // User Management Class

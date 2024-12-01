@@ -443,13 +443,7 @@ input:focus, select:focus {
         text-align: center;
     }
 
-    .charts-section {
-        grid-template-columns: 1fr;
-    }
-
-    .transaction-section {
-        grid-template-columns: 1fr;
-    }
+   
 }
 
 @media (max-width: 480px) {
