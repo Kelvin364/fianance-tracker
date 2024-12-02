@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-FinTrack is a comprehensive personal finance management application that helps users track their income, expenses, and overall financial health. By utilizing external APIs, the application provides valuable insights and actionable recommendations to assist users in making informed financial decisions.
+FinTrack is a comprehensive personal finance management application that helps users track their income, expenses, and overall financial health. By utilizing external APIs, the application provides valuable insights and actionable recommendations to assist users in making informed financial decisions. available at: www.kelvinservices.tech
 
 The application is divided into two main parts:
 
